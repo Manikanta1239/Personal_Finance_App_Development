@@ -113,10 +113,4 @@ http://localhost:3000
 
 ---
 
-## 📄 License
-
-This project is licensed under the **ISC License**.
-
----
-
 > *Efficiently manage users with a polished backend and sleek frontend.*
